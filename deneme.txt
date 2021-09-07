@@ -1,2 +1,4 @@
 Merhaba
 Hello World
+Dosya başkası tarafından değiştirildi. (Conflict örneği)
+
