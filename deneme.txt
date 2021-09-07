@@ -1,1 +1,2 @@
 Merhaba
+Dosya başkası tarafından değiştirildi. (Conflict örneği)
